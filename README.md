@@ -2,4 +2,4 @@
 Master Thesis - Battery Uncertainty Modelling
 
 1. Select thesis_demo.ipynb
-2. Click "run in colab"
+2. Click "Open in Colab"
